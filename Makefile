@@ -1,5 +1,5 @@
 
-IMAGE_NAME = php-sti-builder-img
+IMAGE_NAME = sympaas-php-sti
 
 build:
 	docker build -t $(IMAGE_NAME) .
