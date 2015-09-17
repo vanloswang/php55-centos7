@@ -1,5 +1,5 @@
 
-IMAGE_NAME = sympaas-php55-sti
+IMAGE_NAME = php55-centos7
 
 build:
 	docker build -t $(IMAGE_NAME) .
